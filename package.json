@@ -1,0 +1,19 @@
+{
+  "name": "demo-repo",
+  "version": "1.0.0",
+  "description": "demo HTML",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamakVathek/demo-repo.git"
+  },
+  "author": "SamakVathek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamakVathek/demo-repo/issues"
+  },
+  "homepage": "https://github.com/SamakVathek/demo-repo#readme"
+}
