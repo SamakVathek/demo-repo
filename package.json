@@ -4,6 +4,7 @@
   "description": "demo HTML",
   "main": "index.html",
   "scripts": {
+	  "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SamakVathek/demo-repo/issues"
   },
-  "homepage": "https://github.com/SamakVathek/demo-repo#readme"
+  "homepage": "https://github.com/SamakVathek/demo-repo#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
